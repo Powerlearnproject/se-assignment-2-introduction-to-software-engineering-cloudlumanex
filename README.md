@@ -8,14 +8,29 @@ Answer the following questions based on your understanding of software engineeri
 Questions:
 Define Software Engineering:
 
+Software engineering is the disciplined application of engineering principles to the entire software development lifecycle. This encompasses activities from the initial conception and design of software systems to their implementation, testing, deployment, maintenance, and evolution.
+
 What is software engineering, and how does it differ from traditional programming?
 Software Development Life Cycle (SDLC):
+
+Software engineering is a systematic, disciplined, and quantifiable approach to the design, development, operation, and maintenance of software.
+
+IT DIFFERS BY:
+I. SCOPE- Software Engineering covers the entire software development cycle while Programming focuses on writing code to solve specific problem.
+II. APPROACH- Software Engineering uses structured methodologies and systematic processes while Programming often involves an ad-hoc, informal approach.
+III. Collaboration- Software Engineering involves multiple stakeholders and emphasizes teamwork while Programming can be a solitary activity with less emphasis on collaboration.
+IV. DOCUMENTATION- Software Engineering requires extensive documentation while Programming often has minimal documentation.
+V. QUALITY ASSURANCE- Software Engineering Emphasizes rigorous testing and QA processes while Programmming emphasizes on basic testing with less formal QA processes
+VI. PROJECT MANAGEMENT- Software Engineering includes detailed project management practices while Programming typically lacks formal project management.
+VII. RISK MANAGEMENT- Software Engineering actively manages risks throughout the project WHILE Programming handles risks in an ad-hoc manner.
 
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
 Agile vs. Waterfall Models:
 
 Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
-Requirements Engineering:
+Requirements Engineering: 
+
+Requirement engineering is an important phase in the software development lifecycle that focuses on defining, documenting, and maintaining the requirements of a software system.
 
 What is requirements engineering? Describe the process and its importance in the software development lifecycle.
 Software Design Principles:
